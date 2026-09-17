@@ -1,0 +1,8 @@
+{
+  "name": "Airline Resolution Agent",
+  "description": "An AI agent for handling airline disruptions, delays, and cancellations according to policy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
